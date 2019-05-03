@@ -29,7 +29,7 @@ In order to do this, you **do not** need to create new forks of these projects. 
 - [x] Create a Pull-Request to submit your work
   - [x] Use your own student fork as the base (compare across forks, base-fork -> master).
   - [x] Add your PM as a reviewer on the Pull-Request
-- [ x PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+- [x] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Stretch
 - [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
